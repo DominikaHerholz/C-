@@ -1,0 +1,16 @@
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\bin\Debug\projektc.exe.config
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\bin\Debug\projektc.exe
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\bin\Debug\projektc.pdb
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.csprojResolveAssemblyReference.cache
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\MainWindow.baml
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\MainWindow.g.cs
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\App.g.cs
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc_MarkupCompile.cache
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.g.resources
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.Properties.Resources.resources
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.csproj.GenerateResource.Cache
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.exe
+c:\users\katarzyna\documents\visual studio 2013\Projects\projektc\projektc\obj\Debug\projektc.pdb
+C:\Users\Dominika\Desktop\C#\projektc\projektc\bin\Debug\projektc.exe.config
+C:\Users\Dominika\Desktop\C#\projektc\projektc\obj\Debug\projektc.exe
+C:\Users\Dominika\Desktop\C#\projektc\projektc\obj\Debug\projektc.pdb
